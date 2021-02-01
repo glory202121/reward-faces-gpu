@@ -1,5 +1,5 @@
 # set the base image
-FROM tensorflow/tensorflow-gpu:2.4.1
+FROM tensorflow/tensorflow:2.4.1-gpu
 
 RUN echo 'Starting Docker build'
 
