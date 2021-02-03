@@ -3,4 +3,4 @@ dlib
 numpy
 python-dotenv
 pytz
-tensorflow==2.3.1
+tensorflow==2.4.1
